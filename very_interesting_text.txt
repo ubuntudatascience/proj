@@ -1,0 +1,21 @@
+This is an extremely interesting text.
+This is the result to he work of George
+and Devan.
+
+Meanwhile Devan calls up George. Devan 
+tells him he will improve this part of the text, 
+he will do this on a different branch so that he 
+will not interfere with George’s work.
+*PLACE HOLDER: Devan HAS A CRUCIAL IMPROVEMENT*
+
+George suddenly realises that there is a 
+very nice text, that copes very nicely with 
+what Devan is about to write. This is why 
+he is creating a new branch and writing 
+his text here. 
+*PLACE HOLDER: George'S TEXT*
+
+Before merging the two branches, George
+writes a very nice conclusion for the document
+and commits it.
+*PLACE HOLDER: (George or Devan)'S TEXT*
