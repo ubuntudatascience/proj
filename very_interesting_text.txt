@@ -5,7 +5,7 @@ and Devan.
 Meanwhile Devan calls up George. Devan 
 tells him he will improve this part of the text, 
 he will do this on a different branch so that he 
-will not interfere with George’s work.
+will not interfere with George's work.
 *PLACE HOLDER: Devan HAS A CRUCIAL IMPROVEMENT*
 
 George suddenly realises that there is a 
@@ -21,3 +21,4 @@ and commits it.
 *PLACE HOLDER: (George or Devan)'S TEXT*
 Hello World!
 
+Sorry B Student (Devan) I made a little mistake.
