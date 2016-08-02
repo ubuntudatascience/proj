@@ -13,10 +13,11 @@ very nice text, that copes very nicely with
 what Devan is about to write. This is why 
 he is creating a new branch and writing 
 his text here. 
-*PLACE HOLDER: George'S TEXT*
+George has just added some very interesting text.
 
 Before merging the two branches, George
 writes a very nice conclusion for the document
 and commits it.
 *PLACE HOLDER: (George or Devan)'S TEXT*
 Hello World!
+
