@@ -18,7 +18,6 @@ George has just added some very interesting text.
 Before merging the two branches, George
 writes a very nice conclusion for the document
 and commits it.
-*PLACE HOLDER: (George or Devan)'S TEXT*
 Hello World!
 
 Sorry B Student (Devan) I made a little mistake.
