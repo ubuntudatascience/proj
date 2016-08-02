@@ -18,5 +18,4 @@ his text here.
 Before merging the two branches, George
 writes a very nice conclusion for the document
 and commits it.
-*PLACE HOLDER: (George or Devan)'S TEXT*
 Hello World!
